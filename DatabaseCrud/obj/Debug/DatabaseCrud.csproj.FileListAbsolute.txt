@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DatabaseCrud\bin\Debug\DatabaseCrud.exe.config
+C:\Users\Admin\source\repos\DatabaseCrud\bin\Debug\DatabaseCrud.exe
+C:\Users\Admin\source\repos\DatabaseCrud\bin\Debug\DatabaseCrud.pdb
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.Form1.resources
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.Properties.Resources.resources
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.exe
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.pdb
+C:\Users\Admin\source\repos\DatabaseCrud\obj\Debug\DatabaseCrud.Form2.resources
